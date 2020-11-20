@@ -6,7 +6,7 @@
   <artifactId>messageUtil</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>Message Utility Java Sample App</name>
+  <name>Message Utility Java Sample App from KOR</name>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
